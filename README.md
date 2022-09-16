@@ -1,6 +1,6 @@
 # # Clever Programmer ReactJS Portfolio Template      
 
-![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](portfolio2.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://himelrana.com" target="_blank">LIVE</a>
 
